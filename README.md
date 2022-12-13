@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @hiwthi6
-- 👀 I’m interested in becoming Full-Stack
-- 🌱 I’m currently learning more about HTML,CSS & JS ...
-- 💞️ I’m looking to collaborate on front-end projects...
-- 📫 You can reach me at Instagram @decentCoding...
-- IGr@decentCoding
+I’m currently learning more about HTML,CSS & JS ...
+
+IG:DecentCoding
+-
 
 <!---
 hiwthi6/hiwthi6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
